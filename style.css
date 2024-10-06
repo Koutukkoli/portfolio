@@ -14,7 +14,7 @@
 }
 body{
     color:#fff;
-    background: #1f262e;
+    background: #000000;
 }
                  /*-- header --*/
 header{
@@ -163,7 +163,7 @@ header.sticky{
 }
                     /*-- about --*/
 .about{
-    background: #22282f;
+    background: #000000;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
