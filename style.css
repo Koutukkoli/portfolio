@@ -288,7 +288,7 @@ header.sticky{
     background:  #65b1fd;
 }
 .row:hover{
-    border: 1px solid #65b1fd;
+    border: 1px solid #ffffff;
     transform: translateY(-5px) scale(1.03);
     cursor: pointer;
 }
@@ -322,19 +322,19 @@ form textarea::placeholder{
 form .send-btn{
     display: inline-block;
     padding: 11px 26px;
-    background: #65b1fd;
-    color: #1f262e;
-    border: 2px solid #65b1fd;
+    background: #3e4652;
+    color: #ffffff;
+    border: 2px solid #245571;
     border-radius: 8px;
-    font-size: 15px;
+    font-size: 10px;
     font-weight: 600;
     transition: all .50s ease;
     width: 30%;
 }
 form .send-btn:hover{
-    background: transparent;
-    color: #65b1fd;
-    box-shadow: 0 0 20px #65b1fd;
+    background: rgb(64, 255, 0);
+    color: #000000;
+    box-shadow: 0 0 20px #00b2f8;
     cursor: pointer;
 }
                              /*-- footer --*/
