@@ -160,6 +160,7 @@ header.sticky{
     background: #0b1b2d;
     box-shadow: 0 .1rem 1rem rgba(0, 0, 0, .2);
     padding: 16px 16%;
+    transition: all .50s ease;
 }
                     /*-- about --*/
 .about{
